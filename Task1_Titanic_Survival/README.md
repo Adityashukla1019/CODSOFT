@@ -1,30 +1,27 @@
 # Titanic Survival Prediction
 
 ## 📌 Objective
-To predict whether a passenger survived the Titanic disaster using machine learning.
+To predict whether a passenger survived the Titanic disaster using Machine Learning algorithms.
 
 ## 📊 Dataset
-The Titanic dataset contains information about passengers such as age, gender, class, fare, and survival status.
+The Titanic dataset contains passenger information such as age, gender, class, fare, and survival status.
 
-## 🛠 Tools & Libraries
+## 🛠 Tools & Technologies
 - Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+- Pandas, NumPy
+- Matplotlib, Seaborn
 - Scikit-learn
 
-## ⚙️ Steps Performed
+## ⚙️ Methodology
 1. Data loading and exploration
-2. Handling missing values
-3. Encoding categorical variables
-4. Feature selection
-5. Train-test split
-6. Model training using Logistic Regression
-7. Model evaluation
+2. Data cleaning and preprocessing
+3. Encoding categorical features
+4. Exploratory Data Analysis (EDA)
+5. Model training using Logistic Regression and Random Forest
+6. Model evaluation and comparison
 
-## ✅ Result
-The model predicts passenger survival with good accuracy using Logistic Regression.
+## ✅ Results
+Random Forest achieved better accuracy compared to Logistic Regression, improving survival prediction performance.
 
 ## 🏷 Internship
 CodSoft Data Science Internship – Task 1
