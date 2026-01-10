@@ -72,20 +72,3 @@ https://github.com/Adityashukla1019
 Data Science Intern – CodSoft  
 
 ---
-
-## 📂 Repository Structure
-CODSOFT/
-│
-├── Sales_Prediction/
-│ ├── sales_prediction.ipynb
-│ └── README.md
-│
-├── Task1_Titanic_Survival/
-│ ├── titanic_survival.ipynb
-│ └── README.md
-│
-├── Task3_Iris_Classification/
-│ ├── iris_classification.ipynb
-│ └── README.md
-│
-└── README.md
