@@ -1,13 +1,15 @@
-Internship Objective
+# CODSOFT – Data Science Internship Tasks
 
-The objective of this internship was to:
+This repository contains the projects completed as part of the **CodSoft Data Science Internship**.  
+Each task focuses on applying core **data science and machine learning concepts** using Python.
 
-Gain hands-on experience with real-world datasets
+---
 
-Understand the complete machine learning workflow
+## 👨‍💻 Author
+**Aditya Shukla**  
+Data Science Intern – CodSoft  
 
-Build, train, and evaluate predictive models
+---
 
-⭐ Acknowledgment
+## 📂 Repository Structure
 
-Thanks to CodSoft for providing this internship opportunity and structured tasks that helped strengthen practical data science skills.
